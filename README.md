@@ -17,7 +17,7 @@ and many more ...
 - Stone, Paper, Scissor Game – A simple game to practice conditional logic and event handling.
 - Weather Application – Uses a weather API to fetch and display live weather data.
 - Timer App – A stopwatch/timer to understand useEffect and state updates.
-- *Calculator – A basic calculator app using functional components and useState.
+- Calculator – A basic calculator app using functional components and useState.
 - Login Page – A responsive login form with simple validation logic.
 - And Many More – Includes fun01 to fun11 practice components and mini-projects.
 
