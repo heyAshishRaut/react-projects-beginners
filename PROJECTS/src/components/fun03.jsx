@@ -13,7 +13,7 @@ export function Fun03() {
     ];
     const monthInWord = monthsName[month];
 
-    const API_KEY = "4caba8da18a6a2735aefcec63a606e7c";
+    const API_KEY = "API_KEY";
     const [weather, setWeather] = useState(null);
 
     async function Handler() {
