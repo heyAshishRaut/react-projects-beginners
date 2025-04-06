@@ -20,7 +20,7 @@ export function Fun03() {
         const city = document.getElementById("val").value;
         try {
             const response = await axios.get(
-                `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}&units=metric`
+                `openweatherstring`
             );
             setWeather(response.data);
         }
